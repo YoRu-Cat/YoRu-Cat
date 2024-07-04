@@ -52,8 +52,8 @@ Here are some ideas to get you started:
  
 <table align="left">
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=mongodb" alt="mongodb logo" ><br><sub><sup>MongoDB</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=express" alt="express logo" ><br><sub><sup>Express</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=dotnet" alt="dotnet logo" ><br><sub><sup>Dotnet</td>
+    <td align="center"><img height='30' src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="sql logo" ><br><sub><sup>SQL</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=react" alt="react logo" ><br><sub><sup>React</td>
   </tr>
   
@@ -63,9 +63,9 @@ Here are some ideas to get you started:
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=threejs" alt="three logo" ><br><sub><sup>Three.js</td>
   </tr>
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=materialui" alt="material logo"><br><sub><sup>Material UI</td>
+    <td align="center"><img height='30' src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap logo"><br><sub><sup>GSAP</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"><br><sub><sup>Tailwind CSS</td>
-    <td align="center"><img height='30' src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="bootstrap logo" ><br><sub><sup>Bootstrap</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=git" alt="git logo" ><br><sub><sup>Git</td>
   </tr>
   
 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=c" alt="c logo" ><br><sub><sup>C</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo" ><br><sub><sup>C++</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=cs" alt="cs logo" ><br><sub><sup>C#</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=ts" alt="typescript logo" ><br><sub><sup>TypeScript</td>
 
   </tr>
@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 
 <table align="right">
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=java" alt="java logo" ><br><sub><sup>Java</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kotlin" alt="kotlin logo" ><br><sub><sup>Kotlin</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=py" alt="python logo" ><br><sub><sup>Python</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=mysql" alt="mysql logo" ><br><sub><sup>My SQL</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=pr" alt="pr logo" ><br><sub><sup>Premier</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=unity" alt="unity logo" ><br><sub><sup>Unity</td>
   </tr>
 
   <tr>
@@ -99,13 +99,13 @@ Here are some ideas to get you started:
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" ><br><sub><sup>VS Code</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio logo" ><br><sub><sup>Visual Studio</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=idea" alt="idea logo" ><br><sub><sup>Intellij</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=npm" alt="npm logo" ><br><sub><sup>npm</td>
   </tr>
 
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio logo" ><br><sub><sup>Android Studio</td>
-    <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo" ><br><sub><sup>PyCharm</td>
-    <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode logo" ><br><sub><sup>Xcode</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=powershell" alt="powershell logo" ><br><sub><sup>Power Shell</td>
+    <td align="center"><img height='30' src="https://miro.medium.com/v2/format:webp/1*-hkzF9m5828c-UIaSQNUug.jpeg" alt="SQLserver logo" ><br><sub><sup>SSMS</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=linux" alt="Linux logo" ><br><sub><sup>Linux</td>
   </tr>
 
   <tr>
