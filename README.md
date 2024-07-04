@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/aayushchouhan24?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/aayushchouhan24?tab=followers"><img align="right" src="https://img.shields.io/github/followers/aayushchouhan24?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/aayushchouhan24">  <img align="right" src="https://komarev.com/ghpvc/?username=aayushchouhan24"></a>
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/YoRu-Cat?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/YoRu-Cat?tab=followers"><img align="right" src="https://img.shields.io/github/followers/YoRu-Cat?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/YoRu-Cat">  <img align="right" src="https://komarev.com/ghpvc/?username=YoRu-Cat"></a>
 
 <div align="center">
   
