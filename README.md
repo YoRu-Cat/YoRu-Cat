@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 
 <div align="center">  
 <br>
-<img align="center" width="30%"  src="https://media.tenor.com/BFicsAlUcYkAAAAi/anime-dance.gif" />
+<img align="center" width="30%"  src="https://media.tenor.com/MxnbR-mvJ9kAAAAi/orange-justice-dance-swag.gif" />
 </div>
 
 </div>
