@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=aayushchouhan24&column=9&margin-w=11&margin-h=15&no-frame=true&theme=dracula)
+![](https://github-profile-trophy.vercel.app/?username=YoRu-Cat&column=9&margin-w=11&margin-h=15&no-frame=true&theme=dracula)
 
 </div>
 
