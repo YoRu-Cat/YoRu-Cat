@@ -1,9 +1,11 @@
+<div border-radius="50px">
  <img
     src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/aHeader.gif"
-  height="300px"
+  height="auto"
     width="100%"
-  border-radius= "5%"
   />
+</div>
+ 
 
 <!--
 **YoRu-Cat/YoRu-Cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
