@@ -1,6 +1,8 @@
  <img
-    src=""
-    width="100%" />
+    src="header.gif"
+    width="100%"
+  border-radius= "5%"
+  />
 
 <!--
 **YoRu-Cat/YoRu-Cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
