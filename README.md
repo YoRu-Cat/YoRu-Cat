@@ -1,5 +1,5 @@
-<div border-radius="50px">
- <img src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/pumaaep-asa.gif" height="400px" width="100%" style="object-fit: cover; margin: auto;" />
+<div style="border-radius: 50px; overflow: hidden; width: 100%; height: 400px;">
+  <img src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/pumaaep-asa.gif" style="width: 100%; height: 100%; object-fit: cover;" />
 </div>
  
 
