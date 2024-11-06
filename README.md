@@ -1,9 +1,9 @@
 <div border-radius="50px">
  <img
     src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/pumaaep-asa.gif"
-  height="40%"
+  height="50px"
     width="100%"
-  align-item=center
+  margin="auto"
   />
 </div>
  
