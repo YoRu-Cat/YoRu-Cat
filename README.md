@@ -1,7 +1,7 @@
 <div border-radius="50px">
  <img
     src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/pumaaep-asa.gif"
-  height="50px"
+  height="250px"
     width="100%"
   margin="auto"
   />
