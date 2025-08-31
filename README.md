@@ -105,7 +105,7 @@ Here are some ideas to get you started:
   </tr>
 
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=cpp" alt="cpp logo" ><br><sub><sup>After Effects</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=cpp" alt="cpp logo" ><br><sub><sup>C++</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=blender" alt="blender logo" ><br><sub><sup>Blender</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=figma" alt="figma logo" ><br><sub><sup>Figma</td>
   </tr>
