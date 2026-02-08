@@ -1,140 +1,248 @@
-<div border-radius = "50px" overflow = "hidden" object-fit = "cover">
-  <img src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/YoRu_n.gif" height="auto" width="100%"/>
+<div align="center">
+  <img src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/YoRu_n.gif" width="100%" alt="Header Banner"/>
 </div>
- 
 
-<!--
-**YoRu-Cat/YoRu-Cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px"/>
+  Welcome to My Digital Universe
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/YoRu-Cat">
+    <img src="https://komarev.com/ghpvc/?username=YoRu-Cat&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/YoRu-Cat?tab=followers">
+    <img src="https://img.shields.io/github/followers/YoRu-Cat?label=Followers&style=flat-square&color=blue" alt="Followers"/>
+  </a>
+  <a href="https://github.com/YoRu-Cat?tab=stars">
+    <img src="https://img.shields.io/github/stars/YoRu-Cat?label=Stars&style=flat-square&color=yellow" alt="Stars"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align="left">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"  />
-  Hello, tech enthusiast here! I'm all about coding, 3D graphics, and innovation. Let's dive into the digital realm together! 🚀
-</h2>
+<p align="center">
+  <em>Full-Stack Developer | 3D Graphics Enthusiast | Innovation Driven</em>
+</p>
+
+<p align="center">
+  🚀 Passionate about creating immersive digital experiences through code and creativity<br/>
+  💡 Specializing in web development, 3D graphics, and interactive animations<br/>
+  🎯 Always exploring cutting-edge technologies and pushing boundaries
+</p>
+
+<br/>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YoRu-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false"
-    height="150" alt="stats graph" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=YoRu-Cat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    height="150" alt="languages graph" />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YoRu-Cat&theme=dracula&hide_border=false"
-    height="150" alt="languages graph" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<br clear="both">
+<br/>
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/YoRu-Cat?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/YoRu-Cat?tab=followers"><img align="right" src="https://img.shields.io/github/followers/YoRu-Cat?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/YoRu-Cat">  <img align="right" src="https://komarev.com/ghpvc/?username=YoRu-Cat"></a>
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=YoRu-Cat&column=9&margin-w=11&margin-h=15&no-frame=true&theme=dracula)
-
-</div>
-
-<div align="center"> 
- 
-<table align="left">
-  <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=dotnet" alt="dotnet logo" ><br><sub><sup>Dotnet</td>
-    <td align="center"><img height='30' src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="sql logo" ><br><sub><sup>SQL</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=react" alt="react logo" ><br><sub><sup>React</td>
-  </tr>
-  
-  <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=next" alt="next logo" ><br><sub><sup>Next.js</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" ><br><sub><sup>Node Js</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=threejs" alt="three logo" ><br><sub><sup>Three.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img height='30' src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap logo"><br><sub><sup>GSAP</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"><br><sub><sup>Tailwind CSS</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=git" alt="git logo" ><br><sub><sup>Git</td>
-  </tr>
-  
-
-  <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=html" alt="html5 logo" ><br><sub><sup>HTML5</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=css" alt="css3 logo" ><br><sub><sup>CSS3</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=js" alt="javascript logo" ><br><sub><sup>JavaScript</td>
-  </tr>
-
-  <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=c" alt="c logo" ><br><sub><sup>C</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=cs" alt="cs logo" ><br><sub><sup>C#</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=ts" alt="typescript logo" ><br><sub><sup>TypeScript</td>
-
-  </tr>
-</table>
-
-<table align="right">
-  <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=mysql" alt="mysql logo" ><br><sub><sup>My SQL</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=pr" alt="pr logo" ><br><sub><sup>Premier</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=unity" alt="unity logo" ><br><sub><sup>Unity</td>
-  </tr>
-
-  <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=firebase" alt="firebase logo" ><br><sub><sup>Firebase</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=github" alt="github logo" ><br><sub><sup>GitHub</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vite" alt="vite logo" ><br><sub><sup>Vite</td>
-  </tr>
-
-  <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" ><br><sub><sup>VS Code</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio logo" ><br><sub><sup>Visual Studio</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=npm" alt="npm logo" ><br><sub><sup>npm</td>
-  </tr>
-
-  <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=powershell" alt="powershell logo" ><br><sub><sup>Power Shell</td>
-    <td align="center"><img height='30' src="https://miro.medium.com/v2/format:webp/1*-hkzF9m5828c-UIaSQNUug.jpeg" alt="SQLserver logo" ><br><sub><sup>SSMS</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=linux" alt="Linux logo" ><br><sub><sup>Linux</td>
-  </tr>
-
-  <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=cpp" alt="cpp logo" ><br><sub><sup>C++</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=blender" alt="blender logo" ><br><sub><sup>Blender</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=figma" alt="figma logo" ><br><sub><sup>Figma</td>
-  </tr>
-</table>
-
-
-<div align="center">  
-<br>
-<img align="center" width="30%"  src="https://media.tenor.com/MxnbR-mvJ9kAAAAi/orange-justice-dance-swag.gif" />
-</div>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YoRu-Cat&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&icon_color=ff79c6&include_all_commits=true&cache_seconds=1800">
+    <img src="https://github-readme-stats.vercel.app/api?username=YoRu-Cat&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&icon_color=ff79c6&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=YoRu-Cat&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&langs_count=8&card_width=320&exclude_repo=YoRu-Cat&cache_seconds=1800">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoRu-Cat&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&langs_count=8&card_width=320&exclude_repo=YoRu-Cat" height="170" alt="Top Languages"/>
+  </picture>
 </div>
 
 <div align="center">
-  
-<br clear="both">
-  <h1></h1>
-<br clear="both">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=YoRu-Cat&theme=dracula&hide_border=true&background=0D1117&stroke=bd93f9&ring=ff79c6&fire=ffb86c&currStreakLabel=50fa7b&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="https://streak-stats.demolab.com/?user=YoRu-Cat&theme=dracula&hide_border=true&background=0D1117&stroke=bd93f9&ring=ff79c6&fire=ffb86c&currStreakLabel=50fa7b" alt="GitHub Streak"/>
+  </picture>
+</div>
 
-[![youtube logo](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com)
-[![instagram logo](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com)
-[![discord logo](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com)
-[![gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](tech.niko.coding@gmail.com)
-[![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com)
-[![telegram logo](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me)
-[![twitter logo](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com)
-[![twitch logo](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.twitch.tv)
+<br/>
 
-<img alt="github-snake"
-  src="https://cdn.jsdelivr.net/gh/aayushchouhan24/aayushchouhan24@output/github-contribution-grid-snake-dark.svg" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=YoRu-Cat&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&cache_seconds=3600">
+    <img src="https://github-profile-trophy.vercel.app/?username=YoRu-Cat&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+  </picture>
+</div>
+
+<br/>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoRu-Cat&theme=dracula&hide_border=true&bg_color=0D1117&color=bd93f9&line=ff79c6&point=50fa7b&area=true&area_color=8be9fd" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+## 💻 Tech Stack & Tools
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br/>
+
+<div align="center">
+
+| Technology       | Badge                                                                                        |
+| ---------------- | -------------------------------------------------------------------------------------------- |
+| **React**        | <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>                    |
+| **Next.js**      | <img src="https://skillicons.dev/icons?i=next" height="40" alt="Next.js"/>                   |
+| **Three.js**     | <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js"/>               |
+| **GSAP**         | <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height="40" alt="GSAP"/> |
+| **Tailwind CSS** | <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind"/>              |
+| **HTML5**        | <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>                     |
+| **CSS3**         | <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>                       |
+
+</div>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Database</b></summary>
+<br/>
+
+<div align="center">
+
+| Technology   | Badge                                                                                                             |
+| ------------ | ----------------------------------------------------------------------------------------------------------------- |
+| **.NET**     | <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET"/>                                         |
+| **Node.js**  | <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>                                      |
+| **SQL**      | <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" height="40" alt="SQL"/> |
+| **MySQL**    | <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>                                         |
+| **Firebase** | <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>                                   |
+| **SSMS**     | <img src="https://miro.medium.com/v2/format:webp/1*-hkzF9m5828c-UIaSQNUug.jpeg" height="40" alt="SSMS"/>          |
+
+</div>
+</details>
+
+<details open>
+<summary><b>🔤 Programming Languages</b></summary>
+<br/>
+
+<div align="center">
+
+| Language       | Badge                                                                       |
+| -------------- | --------------------------------------------------------------------------- |
+| **JavaScript** | <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/> |
+| **TypeScript** | <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/> |
+| **C**          | <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>           |
+| **C++**        | <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>       |
+| **C#**         | <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>         |
+
+</div>
+</details>
+
+<details open>
+<summary><b>🛠️ Development Tools</b></summary>
+<br/>
+
+<div align="center">
+
+| Tool              | Badge                                                                                    |
+| ----------------- | ---------------------------------------------------------------------------------------- |
+| **Git**           | <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>                    |
+| **GitHub**        | <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>              |
+| **VS Code**       | <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>             |
+| **Visual Studio** | <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio"/> |
+| **Vite**          | <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite"/>                  |
+| **npm**           | <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm"/>                    |
+| **PowerShell**    | <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell"/>      |
+| **Linux**         | <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>                |
+
+</div>
+</details>
+
+<details open>
+<summary><b>🎮 Game Dev & Design</b></summary>
+<br/>
+
+<div align="center">
+
+| Tool             | Badge                                                                         |
+| ---------------- | ----------------------------------------------------------------------------- |
+| **Unity**        | <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity"/>     |
+| **Blender**      | <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender"/> |
+| **Figma**        | <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/>     |
+| **Premiere Pro** | <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere"/>     |
+
+</div>
+</details>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.tenor.com/MxnbR-mvJ9kAAAAi/orange-justice-dance-swag.gif" width="200" alt="Dancing Character"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
   
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tech.niko.coding@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+## � Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoRu-Cat/YoRu-Cat/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoRu-Cat/YoRu-Cat/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/YoRu-Cat/YoRu-Cat/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
