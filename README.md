@@ -40,21 +40,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YoRu-Cat&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&icon_color=ff79c6&include_all_commits=true&cache_seconds=1800">
-    <img src="https://github-readme-stats.vercel.app/api?username=YoRu-Cat&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&icon_color=ff79c6&include_all_commits=true" height="170" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=YoRu-Cat&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&langs_count=8&card_width=320&exclude_repo=YoRu-Cat&cache_seconds=1800">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoRu-Cat&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&langs_count=8&card_width=320&exclude_repo=YoRu-Cat" height="170" alt="Top Languages"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=YoRu-Cat&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&icon_color=ff79c6&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoRu-Cat&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=bd93f9&langs_count=8&card_width=320" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=YoRu-Cat&theme=dracula&hide_border=true&background=0D1117&stroke=bd93f9&ring=ff79c6&fire=ffb86c&currStreakLabel=50fa7b&date_format=M%20j%5B%2C%20Y%5D">
-    <img src="https://streak-stats.demolab.com/?user=YoRu-Cat&theme=dracula&hide_border=true&background=0D1117&stroke=bd93f9&ring=ff79c6&fire=ffb86c&currStreakLabel=50fa7b" alt="GitHub Streak"/>
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=YoRu-Cat&theme=dracula&hide_border=true&background=0D1117&stroke=bd93f9&ring=ff79c6&fire=ffb86c&currStreakLabel=50fa7b" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -68,10 +59,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=YoRu-Cat&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&cache_seconds=3600">
-    <img src="https://github-profile-trophy.vercel.app/?username=YoRu-Cat&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=YoRu-Cat&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -79,7 +67,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoRu-Cat&theme=dracula&hide_border=true&bg_color=0D1117&color=bd93f9&line=ff79c6&point=50fa7b&area=true&area_color=8be9fd" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoRu-Cat&theme=dracula&bg_color=0D1117&color=bd93f9&line=ff79c6&point=50fa7b&area=true" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -228,11 +216,7 @@
 ## � Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoRu-Cat/YoRu-Cat/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoRu-Cat/YoRu-Cat/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/YoRu-Cat/YoRu-Cat/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/YoRu-Cat/YoRu-Cat/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
 <br/>
