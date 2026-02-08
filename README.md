@@ -303,56 +303,14 @@
 
 ---
 
-## 🏆 ACHIEVEMENTS & TROPHIES
+## 🏆 BATTLE STATISTICS
 
 <div align="center">
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║              🎖️ LEGENDARY ACHIEVEMENTS UNLOCKED             ║
+║                    📊 COMBAT STATS & RATINGS                 ║
 ╚══════════════════════════════════════════════════════════════╝
-```
-
-<table>
-<tr>
-<td align="center">
-  <img width="60" src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/pumaaep-asa.gif" alt="achievement">
-  <br>
-  <sub><b>🏆 Code Warrior</b></sub>
-  <br>
-  <sub>Master of Multiple Languages</sub>
-</td>
-<td align="center">
-  <img width="60" src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/cb2e7569133e23f01882c70ad2f2bc4e.gif" alt="achievement">
-  <br>
-  <sub><b>✨ 3D Sorcerer</b></sub>
-  <br>
-  <sub>Three.js & Animation Expert</sub>
-</td>
-<td align="center">
-  <img width="60" src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/06f97b762d33c085a2c2555c8d876fb3.gif" alt="achievement">
-  <br>
-  <sub><b>🎨 Design Artisan</b></sub>
-  <br>
-  <sub>Blender & Figma Master</sub>
-</td>
-<td align="center">
-  <img width="60" src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/yuru.gif" alt="achievement">
-  <br>
-  <sub><b>⚡ Full-Stack Hero</b></sub>
-  <br>
-  <sub>End-to-End Developer</sub>
-</td>
-</tr>
-</table>
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                    📊 BATTLE STATISTICS                      ║
-╚══════════════════════════════════════════════════════════════╝
-
-    💻 Commits Made       📂 Projects Created      ⭐ Stars Earned
-    🔥 Current Streak     🎯 Languages Mastered    🏆 Achievements
 ```
 
 </div>
@@ -429,20 +387,6 @@ Design:    █████████    80%
 
 ---
 
-## 🌟 SPECIAL CUTSCENE
-
-<div align="center">
-  <img src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/YoRuCar.gif" width="400" alt="Special Animation"/>
-  
-  ```ascii
-  ═══════════════════════════════════════════════════
-    "Code is poetry written in logic and creativity"
-  ═══════════════════════════════════════════════════
-  ```
-</div>
-
----
-
 ## 🗺️ GUILD CONTACTS - JOIN THE PARTY!
 
 <div align="center">
@@ -504,34 +448,18 @@ Design:    █████████    80%
 
 ---
 
-## 🎪 BONUS STAGE - EASTER EGGS
+## 🎪 BONUS STAGE - VICTORY!
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-  <img src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/YoRu_b.gif" width="150" alt="Easter Egg 1"/>
-  <br>
-  <sub>🐱 Developer Cat</sub>
-</td>
-<td align="center">
-  <img src="https://github.com/YoRu-Cat/YoRu-Cat/blob/main/YoRu_w.gif" width="150" alt="Easter Egg 2"/>
-  <br>
-  <sub>⚡ Power Mode</sub>
-</td>
-<td align="center">
-  <img src="https://media.tenor.com/MxnbR-mvJ9kAAAAi/orange-justice-dance-swag.gif" width="150" alt="Victory Dance"/>
-  <br>
-  <sub>💃 Victory Dance</sub>
-</td>
-</tr>
-</table>
+<img src="https://media.tenor.com/MxnbR-mvJ9kAAAAi/orange-justice-dance-swag.gif" width="200" alt="Victory Dance"/>
+
+<br><br>
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
-║  🎲 SECRET UNLOCKED: You found the hidden developer cats!   ║
-║  Achievement: "Cat Whisperer" +100 XP                        ║
+║  🎉 ACHIEVEMENT UNLOCKED: Victory Celebration!               ║
+║  Keep coding, keep dancing! +100 XP                          ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
